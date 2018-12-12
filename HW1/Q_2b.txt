@@ -1,0 +1,54 @@
+Criterion: entropy
+
+max_depth: 1
+
+Accuracy for this test is: 66.598778 %
+
+
+max_depth: 3
+
+Accuracy for this test is: 67.820774 %
+
+
+max_depth: 6
+
+Accuracy for this test is: 71.486762 %
+
+
+max_depth: 9
+
+Accuracy for this test is: 73.523422 %
+
+
+max_depth: 12
+
+Accuracy for this test is: 74.338086 %
+
+
+
+
+Criterion: gini
+
+max_depth: 1
+
+Accuracy for this test is: 66.598778 %
+
+
+max_depth: 3
+
+Accuracy for this test is: 70.875764 %
+
+
+max_depth: 6
+
+Accuracy for this test is: 71.690428 %
+
+
+max_depth: 9
+
+Accuracy for this test is: 73.116090 %
+
+
+max_depth: 12
+
+Accuracy for this test is: 73.523422 %

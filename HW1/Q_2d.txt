@@ -1,0 +1,7 @@
+"the"            0.067717
+"and"            0.014410
+"donald"         0.042960
+"trumps"         0.044293
+"fame"           0.002266
+"hillary"        0.043895
+"sledgehammer"   0.001200
